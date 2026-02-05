@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="compose.yaml" />
+  </Folder>
+  <Project Path="UsuariosApp.API/UsuariosApp.API.csproj" />
+  <Project Path="UsuariosApp.Domain/UsuariosApp.Domain.csproj" />
+  <Project Path="UsuariosApp.Infra.Data/UsuariosApp.Infra.Data.csproj" />
+</Solution>
